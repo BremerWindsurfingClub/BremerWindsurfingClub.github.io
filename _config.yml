@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 
 title: Bremer Windsurfing Club e.V.
