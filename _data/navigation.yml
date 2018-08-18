@@ -1,8 +1,12 @@
 - link: /
   name: Home
+  highlight: true
 - link: /about/
   name: About
+  highlight: true
 - link: /services
   name: Services
+  highlight: true
 - link: /contact/
   name: Contact
+  highlight: true
