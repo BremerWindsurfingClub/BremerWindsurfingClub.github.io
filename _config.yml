@@ -1,6 +1,1 @@
 theme: jekyll-theme-minimal
-gem "github-pages", group: :jekyll_plugins
-
-title: Bremer Windsurfing Club e.V.
-description: [Der Bremer Windsurfing Club wurde am 09.04.1973 gegründet und hat heute ca. 250 aktive und passive Mitglieder]
-
